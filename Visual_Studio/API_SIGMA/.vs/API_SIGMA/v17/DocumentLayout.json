@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\csvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\csvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\filterdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\filterdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|c:\\users\\gabi5\\documents\\universite\\stage\\t2\\projet_stage2\\visual_studio\\api_sigma\\api_sigma\\arguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21534F-6FB8-439F-B101-CE0D97E59865}|API_SIGMA\\API_SIGMA.csproj|solutionrelative:api_sigma\\arguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arguments.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Arguments.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\Arguments.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Arguments.cs",
+              "RelativeToolTip": "API_SIGMA\\Arguments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:55:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvFile.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\CsvFile.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\CsvFile.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\CsvFile.cs",
+              "RelativeToolTip": "API_SIGMA\\CsvFile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:03:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Data.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\Data.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Data.cs",
+              "RelativeToolTip": "API_SIGMA\\Data.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwGAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:04:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Program.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\Program.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Program.cs",
+              "RelativeToolTip": "API_SIGMA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:03:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterDate.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\FilterDate.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\FilterDate.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\FilterDate.cs",
+              "RelativeToolTip": "API_SIGMA\\FilterDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:45:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Token.cs",
+              "RelativeDocumentMoniker": "API_SIGMA\\Token.cs",
+              "ToolTip": "C:\\Users\\gabi5\\Documents\\Universite\\Stage\\T2\\Projet_Stage2\\Visual_Studio\\API_SIGMA\\API_SIGMA\\Token.cs",
+              "RelativeToolTip": "API_SIGMA\\Token.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:34:11.478Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+DROP TABLE IF EXISTS dbo.BDIP_Absence;
+
+
+CREATE TABLE BDIP_Absence (
+    CréationUtilisateur NVARCHAR(50),
+	DateCréationHeureUTC DATETIME,
+	DateDébut DATE,
+	DateDébutPremièreConséquence DATE,
+	DateFermetureDossier DATE,
+	DateFin DATE,
+	DateFinConséquence DATE,
+	DateÉvénement DATE,
+	DateOuvertureDossier DATE,
+	Date36eMoisAbsenceDepuisDateOuvertureDossier DATE,
+	DateRéelle104Semaines DATE,
+	DateRéelleLimiteRechute DATE,
+	DifférenceEntreDateEmbaucheDatePremièreAbsence NVARCHAR(50),
+	DuréeAbsenceEnSemaine NVARCHAR(50),
+	EmployéAbsentéismeÉlevé NVARCHAR(50),
+	Gestionnaire NVARCHAR(100),
+	EmployéContractéMaladieDansCadreDuTravail NVARCHAR(50),
+	DiagnosticJugéInvalidantSuiviMédicalJugéAdéquatEtEmployéArrêtTravailComplet NVARCHAR(50),
+	EmployéÉligible NVARCHAR(50),
+	EmployéFaitPartiePersonnelEncadrement NVARCHAR(50),
+	MaladieInfectieuse NVARCHAR(50),
+	NuméroÉvénement INT,
+	NomSite NVARCHAR(150),
+	NuméroSite INT,
+	PourcentageAbsentéisme NVARCHAR(50),
+	QuartTravail NVARCHAR(50),
+	RaisonFermetureDossier NVARCHAR(250),
+	RaisonAbsence NVARCHAR(250),
+	Régime NVARCHAR(50),
+	MatriculeResponsableDossier NVARCHAR(50),
+	NomComplet NVARCHAR(100),
+	StatutEmployé NVARCHAR(50),
+	StatutEmploiHabituel NVARCHAR(50),
+	StatutDossier NVARCHAR(50),
+	StresseurPrincipal NVARCHAR(150),
+	StresseurSecondaire1 NVARCHAR(150),
+	StresseurSecondaire2 NVARCHAR(150),
+	SyndicatLocal NVARCHAR(50),
+	SyndicatNational NVARCHAR(50),
+	TotalConséquences NVARCHAR(150),
+	TroublePersonnalité NVARCHAR(250),
+	TypeÉvénement NVARCHAR(50),
+	ÉvaluationMédicaleRequise NVARCHAR(50),
+	NuméroÉtablissement INT,
+	NomÉtablissement NVARCHAR(50),
+	NuméroDirection INT,
+	NomDirection NVARCHAR(50),
+	NuméroService INT,
+	NomService NVARCHAR(50),
+	NuméroUA INT,
+	NomUA NVARCHAR(50),
+	Age INT,
+	Matricule INT,
+	CodeTitreEmploiMSSS NVARCHAR(50),
+	CodeTitreEmploi NVARCHAR(50),
+	DateEmbauche NVARCHAR(50),
+	Siège NVARCHAR(50),
+	Nature NVARCHAR(50),
+	DiagnosticPrincipalAnglais NVARCHAR(250),
+	DiagnosticPrincipal NVARCHAR(250),
+	DescriptionMSSSTitreEmploi NVARCHAR(250),
+	DescriptionTitreEmploi NVARCHAR(250),
+	DescriptionRegroupementDiagnostic NVARCHAR(250),
+	DescriptionCatégorieDiagnostic NVARCHAR(250),
+	CatégoriePersonnel NVARCHAR(50),
+	AutresDiagnosticsPrésentsDansSuivisDossier NVARCHAR(250)
+);
+
+
+BULK INSERT dbo.BDIP_Absence
+FROM 'D:\INFOCENTRE\RH_DB\EXE\CSV\Absence.csv'
+WITH (
+    FIELDTERMINATOR = '\',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2,
+	CODEPAGE = '65001'
+);
+
+SELECT DISTINCT * FROM dbo.BDIP_Absence

@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS Paie;
+
+CREATE TABLE Paie (
+	Régime NVARCHAR(50),
+	Conséquence NVARCHAR(100)
+)
